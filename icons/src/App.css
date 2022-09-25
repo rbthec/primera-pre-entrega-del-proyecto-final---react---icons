@@ -1,0 +1,17 @@
+ion-icon{
+    margin-left: 1000px;
+    margin-top: 10px;
+    font-size: 30px;
+    background-color: rgb(237, 237, 237);
+    border-style: solid;
+}
+
+.saludo{
+    width: 275px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 600px;
+    text-align: center;
+    background-color: rgb(209, 209, 209);
+    border-style:solid ;
+    }
